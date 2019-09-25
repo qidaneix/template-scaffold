@@ -1,5 +1,5 @@
 class ArrayBi extends Array {
-  noSame() {
+  public noSame(): any[] {
     const set = new Set(this);
     return [...set];
   }
