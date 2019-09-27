@@ -1,4 +1,4 @@
-# template-scaffold
+# typescript-scaffold
 
 ## Project setup
 ```
