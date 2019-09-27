@@ -1,8 +1,5 @@
-class ArrayBi extends Array {
-  public noSame(): any[] {
-    const set = new Set(this);
-    return [...set];
-  }
-}
+import $ from 'jquery';
 
-export { ArrayBi };
+export default (text: string) => {
+  return $('#app').html(text);
+};
