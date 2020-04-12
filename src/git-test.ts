@@ -22,4 +22,6 @@ $(document).on('click', '#app', e => {
   // go 1 amend 2
   // meng le ya
   // meng le ya amend
+  // go 2
+  // go 2 amend
 });
