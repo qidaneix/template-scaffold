@@ -29,4 +29,5 @@ $(document).on('click', '#app', e => {
   // sb is me
   // smart is me
   // smart is he
+  // smart is she
 });
