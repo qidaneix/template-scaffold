@@ -5,4 +5,5 @@ $(document).on('click', '#app', e => {
   console.log(e.target.tagName);
   // 为什么会落后？
   // try again
+  // what the hell???
 });
