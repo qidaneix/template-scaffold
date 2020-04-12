@@ -18,5 +18,4 @@ $(document).on('click', '#app', e => {
   // go to hell
   // go to hell 1
   // go 1
-  // go 1 amend
 });
