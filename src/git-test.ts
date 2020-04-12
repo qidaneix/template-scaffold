@@ -24,4 +24,6 @@ $(document).on('click', '#app', e => {
   // meng le ya amend
   // go 2
   // go 2 amend
+  // go 3
+  // go 3 amend
 });
