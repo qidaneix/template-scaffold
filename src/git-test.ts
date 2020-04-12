@@ -14,5 +14,4 @@ $(document).on('click', '#app', e => {
   // more change
   // what the hell
   // do not know 1
-  // do not know 1 amend
 });
