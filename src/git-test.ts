@@ -28,4 +28,5 @@ $(document).on('click', '#app', e => {
   // go 3 amend
   // sb is me
   // smart is me
+  // smart is she
 });
