@@ -1,2 +1,2 @@
 # Convert text file line endings to lf
-* text eol=lf
+* text=auto eol=lf
